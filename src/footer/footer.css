@@ -1,0 +1,7 @@
+.footerWrapper {
+    z-index: 10;
+    border-top: 5px solid var(--psyellow);
+    display: flex;
+    padding-top: 0.6cm;
+    margin: 0 1.6cm;
+}

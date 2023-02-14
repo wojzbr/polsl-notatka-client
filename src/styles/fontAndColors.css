@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Font-Light;
+    src: url(../fonts/BarlowSCK-Light.otf) format("opentype");
+}
+@font-face {
+    font-family: Font-Regular;
+    src: url(../fonts/BarlowSCK-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: Font-SemiBold;
+    src: url(../fonts/BarlowSCK-SemiBold.otf) format("opentype");
+}
+
+:root {
+    --psblue: #183557; 
+    --psyellow: #fbba00;
+}
+
+* {
+    font-family: Font-Regular;
+    cursor: default;
+}
+
+
+/*------------HEADER------------*/
+.headerWrapper * {
+    font-family: Font-SemiBold;
+    font-weight: 600 !important;
+}
+.pell-content {
+    overflow: hidden !important;
+}
+
+.offerID {
+    font-size: 1.2rem;
+}
+
+.id_oferty {
+    font-family: Font-SemiBold;
+    font-size: 1.2rem;
+}
+
+/*-------------INNER-------------*/
+.section-title {
+    font-size: 1rem;
+    font-family: Font-SemiBold;
+}
+.section-content {
+    font-size: 1rem;
+}
+
+/*------------FOOTER-------------*/
+.footerWrapper * {
+    font-size: 0.8rem;
+    font-family: Font-SemiBold;
+}
