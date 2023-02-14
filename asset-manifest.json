@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wojzbr/polsl-notatka-client.git/static/css/main.3e1d0fcb.css",
-    "main.js": "/wojzbr/polsl-notatka-client.git/static/js/main.32ce5027.js",
-    "static/media/BarlowSCK-Regular.ttf": "/wojzbr/polsl-notatka-client.git/static/media/BarlowSCK-Regular.28bce4c43f58ea98f789.ttf",
-    "static/media/BarlowSCK-SemiBold.otf": "/wojzbr/polsl-notatka-client.git/static/media/BarlowSCK-SemiBold.9cee6550d74831c474e2.otf",
-    "static/media/BarlowSCK-Light.otf": "/wojzbr/polsl-notatka-client.git/static/media/BarlowSCK-Light.e4512f229e2cac8bfb3c.otf",
-    "static/media/Logo 100 innovations.png": "/wojzbr/polsl-notatka-client.git/static/media/Logo 100 innovations.7aaa8b8aaa89653a67bd.png",
-    "static/media/logoPS_ENG.jpg": "/wojzbr/polsl-notatka-client.git/static/media/logoPS_ENG.4adb86bb67a1c3a04836.jpg",
-    "static/media/Logo CITT.jpg": "/wojzbr/polsl-notatka-client.git/static/media/Logo CITT.28f34affc06fc5757ca7.jpg",
-    "static/media/logoUczelniaBadawcza_ENG.png": "/wojzbr/polsl-notatka-client.git/static/media/logoUczelniaBadawcza_ENG.b404a0e630f634326080.png",
-    "static/media/logoUczelniaBadawcza.png": "/wojzbr/polsl-notatka-client.git/static/media/logoUczelniaBadawcza.3b9693bd440ce8f52179.png",
-    "static/media/logoPS.png": "/wojzbr/polsl-notatka-client.git/static/media/logoPS.44f300ea643086cde8cf.png",
-    "index.html": "/wojzbr/polsl-notatka-client.git/index.html",
-    "main.3e1d0fcb.css.map": "/wojzbr/polsl-notatka-client.git/static/css/main.3e1d0fcb.css.map",
-    "main.32ce5027.js.map": "/wojzbr/polsl-notatka-client.git/static/js/main.32ce5027.js.map"
+    "main.css": "/polsl-notatka-client/static/css/main.c213d422.css",
+    "main.js": "/polsl-notatka-client/static/js/main.f997be56.js",
+    "static/media/BarlowSCK-Regular.ttf": "/polsl-notatka-client/static/media/BarlowSCK-Regular.28bce4c43f58ea98f789.ttf",
+    "static/media/BarlowSCK-SemiBold.otf": "/polsl-notatka-client/static/media/BarlowSCK-SemiBold.9cee6550d74831c474e2.otf",
+    "static/media/BarlowSCK-Light.otf": "/polsl-notatka-client/static/media/BarlowSCK-Light.e4512f229e2cac8bfb3c.otf",
+    "static/media/Logo 100 innovations.png": "/polsl-notatka-client/static/media/Logo 100 innovations.7aaa8b8aaa89653a67bd.png",
+    "static/media/logoPS_ENG.jpg": "/polsl-notatka-client/static/media/logoPS_ENG.4adb86bb67a1c3a04836.jpg",
+    "static/media/Logo CITT.jpg": "/polsl-notatka-client/static/media/Logo CITT.28f34affc06fc5757ca7.jpg",
+    "static/media/logoUczelniaBadawcza_ENG.png": "/polsl-notatka-client/static/media/logoUczelniaBadawcza_ENG.b404a0e630f634326080.png",
+    "static/media/logoUczelniaBadawcza.png": "/polsl-notatka-client/static/media/logoUczelniaBadawcza.3b9693bd440ce8f52179.png",
+    "static/media/logoPS.png": "/polsl-notatka-client/static/media/logoPS.44f300ea643086cde8cf.png",
+    "index.html": "/polsl-notatka-client/index.html",
+    "main.c213d422.css.map": "/polsl-notatka-client/static/css/main.c213d422.css.map",
+    "main.f997be56.js.map": "/polsl-notatka-client/static/js/main.f997be56.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e1d0fcb.css",
-    "static/js/main.32ce5027.js"
+    "static/css/main.c213d422.css",
+    "static/js/main.f997be56.js"
   ]
 }
