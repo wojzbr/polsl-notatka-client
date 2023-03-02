@@ -27,16 +27,11 @@
     font-family: Font-SemiBold;
     font-weight: 600 !important;
 }
-.pell-content {
+/* .pell-content {
     overflow: hidden !important;
-}
+} */
 
-.offerID {
-    font-size: 1.2rem;
-}
-
-.id_oferty {
-    font-family: Font-SemiBold;
+.meetingId {
     font-size: 1.2rem;
 }
 
