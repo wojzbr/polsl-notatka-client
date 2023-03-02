@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/polsl-notatka-client/static/css/main.6fbf6861.css",
-    "main.js": "/polsl-notatka-client/static/js/main.2dcd4482.js",
+    "main.js": "/polsl-notatka-client/static/js/main.306af5db.js",
     "static/media/BarlowSCK-Regular.ttf": "/polsl-notatka-client/static/media/BarlowSCK-Regular.28bce4c43f58ea98f789.ttf",
     "static/media/BarlowSCK-SemiBold.otf": "/polsl-notatka-client/static/media/BarlowSCK-SemiBold.9cee6550d74831c474e2.otf",
     "static/media/BarlowSCK-Light.otf": "/polsl-notatka-client/static/media/BarlowSCK-Light.e4512f229e2cac8bfb3c.otf",
@@ -11,10 +11,10 @@
     "static/media/logoPS.png": "/polsl-notatka-client/static/media/logoPS.44f300ea643086cde8cf.png",
     "index.html": "/polsl-notatka-client/index.html",
     "main.6fbf6861.css.map": "/polsl-notatka-client/static/css/main.6fbf6861.css.map",
-    "main.2dcd4482.js.map": "/polsl-notatka-client/static/js/main.2dcd4482.js.map"
+    "main.306af5db.js.map": "/polsl-notatka-client/static/js/main.306af5db.js.map"
   },
   "entrypoints": [
     "static/css/main.6fbf6861.css",
-    "static/js/main.2dcd4482.js"
+    "static/js/main.306af5db.js"
   ]
 }
