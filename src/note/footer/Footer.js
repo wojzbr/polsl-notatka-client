@@ -1,6 +1,6 @@
 import React from 'react'
-import logoCITT from "../media/Logo CITT.jpg"
-import logo100innovations from "../media/Logo 100 innovations.png"
+import logoCITT from "../../media/Logo CITT.jpg"
+import logo100innovations from "../../media/Logo 100 innovations.png"
 import './footer.css'
 
 const Footer = () => {
@@ -20,9 +20,6 @@ const Footer = () => {
                 44-100 Gliwice<br/>        
                 </>
             </div>
-            {/* <div className="logoWrapper footerLogo" style={{margin: "0 0 0 auto"}}>
-                <img alt="100 innovations logo" src={logo100innovations} />
-            </div> */}
         </div>
     )
 }

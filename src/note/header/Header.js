@@ -1,9 +1,5 @@
-import React, { useEffect } from 'react'
-
-import logoPS from "../media/logoPS.png"
-import logoPS_ENG from "../media/logoPS_ENG.jpg"
-import logoUczelniaBadawcza from "../media/logoUczelniaBadawcza.png"
-import logoUczelniaBadawcza_ENG from "../media/logoUczelniaBadawcza_ENG.png"
+import logoPS from "../../media/logoPS.png"
+import logoUczelniaBadawcza from "../../media/logoUczelniaBadawcza.png"
 
 import './header.css'
 
@@ -25,9 +21,12 @@ const Header = ({title, title_id, offer_id, contentEditable="true"}) => {
                 
             </div>
 
-            <div className="offerID">
-                ID OFERTY
-                <div id="offer_id_wrapper"><span style={{border: "1px solid transparent"}}>RJO4/</span><p contentEditable={contentEditable} className="offer_id" id="offer_id">{(offer_id)}</p></div>
+            <div className="meetingId">
+                ID SPOTKANIA
+                <div className="meetingIdWrapper">
+                    <span style={{border: "1px solid transparent"}}>RJO4/</span>
+                    <p contentEditable={contentEditable} className="meetingId">{(offer_id)}</p>
+                </div>
             </div>   
 
         </div>

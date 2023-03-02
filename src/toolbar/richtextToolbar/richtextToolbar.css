@@ -1,0 +1,15 @@
+#richtextToolbarWrapper {
+    z-index: 20;
+    /* position: fixed; */
+    /* width: 100%; */
+    height: 60px;
+    padding: 10px;
+    /* position: absolute;
+    right: 0; */
+    /* top: 60px; */
+    display: flex;
+    background: lightgray;
+    /* box-shadow: 0 10px 10px darkgray; */
+}
+
+

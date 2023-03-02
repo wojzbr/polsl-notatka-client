@@ -1,0 +1,18 @@
+.richtextToolbarButton {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid darkgray;
+    border-radius: 2px;
+    background: lightgray;
+    margin: 0 1px;
+}
+.richtextToolbarButton *, .symbolsConsoleButton * {
+    cursor: pointer;
+}
+.richtextToolbarButton:hover, .symbolsConsoleButton:hover {
+    background: darkgray !important;
+}

@@ -5,7 +5,6 @@ import App from './App';
 
 import './styles/index.css';
 import './styles/fontAndColors.css'
-import './styles/pageSize.css'
 import './styles/print.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
